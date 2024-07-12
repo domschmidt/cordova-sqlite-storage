@@ -1,0 +1,11 @@
+{
+  "name": "cordova-sqlite-storage",
+  "description": "Electron Native Support for cordova-sqlite-storage",
+  "main": "SQLiteProxy.js",
+  "dependencies": {
+    "sqlite3": "5.1.6"
+  },
+  "cordova": {
+    "serviceName": "SQLitePlugin"
+  }
+}

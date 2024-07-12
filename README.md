@@ -5,6 +5,7 @@ Native SQLite component with API based on HTML5/[Web SQL (DRAFT) API](http://www
 - browser
 - Android
 - iOS
+- Electron
 
 and *deprecated* desktop platforms:
 

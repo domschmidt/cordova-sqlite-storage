@@ -1,6 +1,6 @@
 {
   "name": "cordova-sqlite-storage",
-  "version": "6.1.1-dev",
+  "version": "6.2.1-dev",
   "description": "Native interface to SQLite for PhoneGap / Cordova - cordova-sqlite-storage plugin version",
   "cordova": {
     "id": "cordova-sqlite-storage",
@@ -9,7 +9,8 @@
       "browser",
       "ios",
       "osx",
-      "windows"
+      "windows",
+      "electron"
     ]
   },
   "repository": {
@@ -23,7 +24,8 @@
     "cordova-browser",
     "cordova-ios",
     "cordova-osx",
-    "cordova-windows"
+    "cordova-windows",
+    "cordova-electron"
   ],
   "author": "various",
   "license": "MIT",
